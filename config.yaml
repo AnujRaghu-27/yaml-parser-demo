@@ -1,0 +1,10 @@
+app:
+  name: "yamlcraft-express-demo"
+  version: "1.0.0"
+
+server:
+  port: 3000
+
+features:
+  - "Parse YAML files"
+  - "Parse YAML request bodies"

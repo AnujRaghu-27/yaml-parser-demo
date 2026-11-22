@@ -1,0 +1,20 @@
+{
+  "name": "yaml-parser-demo",
+  "version": "1.0.0",
+  "description": "Simple Express server demo using yamlcraft",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "yaml",
+    "yamlcraft"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "yamlcraft": "^1.0.0"
+  }
+}
